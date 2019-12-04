@@ -1,0 +1,9 @@
+1) Add new py file (init_MySQL) -   complete
+    point to new html file
+
+2) Add index file & change to use datatable - complete
+    add references
+
+3) Add route for handling SQL Lite - complete
+
+4) TODO Add route for handling SQL Server
